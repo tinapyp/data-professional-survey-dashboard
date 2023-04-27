@@ -1,4 +1,4 @@
-# DataProfessionalSurveyDashboard
+# Data Professional Survey Dashboard
 Developing Data Professional Survey Dashboard using Power BI
 
 ## Changelog
