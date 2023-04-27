@@ -9,4 +9,4 @@ Developing Data Professional Survey Dashboard using Power BI
 
 ## The Dashboard
 <p align="center">
-<kbd><img src="https://github.com/fathinafif/DataProfessionalSurveyDashboard/blob/main/ProfessionalSurveyDashboard.png" alt="Image" width="800" height="640"></kbd>
+<kbd><img src="https://github.com/fathinafif/DataProfessionalSurveyDashboard/blob/main/ProfessionalSurveyDashboard.png" alt="Image"></kbd>
